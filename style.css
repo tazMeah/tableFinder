@@ -93,6 +93,7 @@ button {
 .reserved {
     background: #adaaaa !important;
     color: #eee !important;
+    cursor: not-allowed;
 }
 
 #bottom {
